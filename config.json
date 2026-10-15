@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-gradebook-analyzer",
+      "title": "CSV Gradebook Analyzer",
+      "description": "Read, validate, and summarize student grade records from a CSV file using Python.",
+      "path": "assignments/csv-gradebook-analyzer",
+      "dueDate": "2026-10-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Grade Records",
+          "file": "grades.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
